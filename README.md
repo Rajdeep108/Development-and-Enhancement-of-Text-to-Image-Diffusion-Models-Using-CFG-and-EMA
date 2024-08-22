@@ -4,3 +4,9 @@ This repository contains the code and resources for the dissertation project tit
 ### Project Overview
 This project focuses on the development and enhancement of text-to-image diffusion models using Classifier-Free Guidance (CFG) and Exponential Moving Average (EMA). The primary objective is to improve the performance and stability of diffusion models, particularly the Stable Diffusion v1.4 model, through the integration of EMA during training.
 
+#### Author
+Rajdeep Roshan Sahu
+MSc in Artificial Intelligence, Queen Mary University of London
+
+## Installation Instructions
+##### 1. Clone the Repository:
