@@ -24,13 +24,18 @@ The requirements.txt file contains all the necessary dependencies for this proje
 ### Usage
 To run the code and experiment with the models, follow these steps:
 #### Model Setup:
-- The baseline model used is Stable Diffusion v1.4, which is imported and configured from Hugging Face. You can access the base model from Hugging Face here.
+- The baseline model used is Stable Diffusion v1.4, which is imported and configured from Hugging Face. You can access the base model from here:
+```bash
+https://huggingface.co/CompVis/stable-diffusion-v1-4
+```
 - The CIFAR-100 dataset is used for training, and it is preprocessed to match the model’s expected input size.
 #### Training the Model:
 - The training process involves the use of EMA to stabilize and improve model performance.
 - The baseline model was trained for 5 hours, and the trained model was saved. The training loops and intermediate outputs have been cleared to reduce disk usage.
 ##### Using the Enhanced Model:
-- The enhanced model can be downloaded directly from the following QMUL OneDrive link.
+- The enhanced model can be downloaded directly from the following QMUL OneDrive link:
+  ```bash
+  https://qmulprod-my.sharepoint.com/:u:/g/personal/ec23715_qmul_ac_uk/ERr3p7XTGXJDuJVZDW1DpNYBcAY0GIweM5c0GEqRrBKOPQ?e=RxU5GP
 ## Model Details
 #### Baseline Model
 - Model: Stable Diffusion v1.4
