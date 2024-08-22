@@ -12,6 +12,6 @@ MSc in Artificial Intelligence, Queen Mary University of London
 ##### 1. Clone the Repository:
 ```bash
 git clone https://github.com/Rajdeep108/Development-and-Enhancement-of-Text-to-Image-Diffusion-Models-Using-CFG-and-EMA.git
-cd Development-and-Enhancement-of-Text-to-Image-Diffusion-Models-Using-CFG-and-EMA
+cd Development-and-Enhancement-of-Text-to-Image-Diffusion-Models-Using-CFG-and-EMA ```
 
-
+##### 1. Clone the Repository:
